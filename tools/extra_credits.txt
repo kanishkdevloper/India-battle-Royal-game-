@@ -1,0 +1,6 @@
+# One line per model that has no .glb in reference/sketchfab/ :  Title | Author | Licence | URL
+# Example: Low poly plane | SomeAuthor | CC-BY-4.0 | https://sketchfab.com/3d-models/...
+# UNVERIFIED - one line per model. Fill Title | Author | License | URL, then remove the leading "# ".
+# Do not guess. A wrong license line is a false declaration.
+FREE Survival Character (+11 textures) | Arberry (CGTrader) | CGTrader Royalty Free License (no AI) | https://www.cgtrader.com/3d-models/character/man/survival-character
+# (reload animation: replaced by an original one in ReloadAnim.kt - nothing to credit)
